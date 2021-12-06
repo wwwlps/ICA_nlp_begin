@@ -7,7 +7,7 @@
 
 ************************************************************************
 #### 机器学习: 李宏毅机器学习 
-- [李宏毅官网课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
+- [李宏毅官网](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
 - [李宏毅机器学习2021视频](https://www.bilibili.com/video/BV1Wv411h7kN?p=1)(Bilibili)
 - [李宏毅机器学习2020视频](https://www.bilibili.com/video/BV1JE411g7XF?p=1)(Bilibili)
 - [李宏毅机器学习2019视频](https://www.bilibili.com/video/av48285039/?p=1)(Bilibili)
