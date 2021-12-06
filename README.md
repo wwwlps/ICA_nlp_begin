@@ -4,6 +4,7 @@
 - [windows下安装conda](https://blog.csdn.net/scorn_/article/details/106591160)
 - [conda创建python虚拟环境](https://www.cnblogs.com/shierlou-123/p/11138920.html)
 - [pytorch安装](https://blog.csdn.net/MCYZSF/article/details/116525159)
+
 ************************************************************************
 ### 作业1 - Regression, Gradient descent
 - 来源于[李宏毅2019机器学习课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)——[HW1](https://ntumlta2019.github.io/ml-web-hw1/)
@@ -19,3 +20,9 @@
 - 来源于[李宏毅2019机器学习课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)——[HW3](https://ntumlta2019.github.io/ml-web-hw3/)
 - [kaggl练习](https://www.kaggle.com/c/ml2019spring-hw3/overview)
 - PPT指导 [Image Sentiment Classification](https://docs.google.com/presentation/d/1_UOEquMW4URIuTtrKGqwSPP4qtKIb7osT9ysTQ3Flmo/edit#slide=id.p)
+
+### 作业4 -  (RNN)
+
+
+### 作业5 -  (Seq2Seq)
+
