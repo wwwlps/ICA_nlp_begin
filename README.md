@@ -1,5 +1,6 @@
 # ICA_NLP_beginner
-
+#### Python基础: [廖雪峰python教程](https://www.liaoxuefeng.com/wiki/1016959663602400)，学习至“python基础”章节即可
+#### 环境安装: 建议用conda维护自己的环境，详细安装可百度或者google进行搜索
 ### 作业1 - Regression, Gradient descent
 - 来源于[李宏毅2019机器学习课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML19.html)——[HW1](https://ntumlta2019.github.io/ml-web-hw1/)
 - [kaggle练习](https://www.kaggle.com/c/ml2019spring-hw1/overview)  
